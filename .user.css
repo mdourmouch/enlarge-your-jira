@@ -7,10 +7,20 @@
 @license      GPLv3
 ==/UserStyle== */
 
+/* ==UserStyle==
+@name         Enlarge your Jira
+@version      1.0.1
+@namespace    userstyles.world/user/mdourmouch
+@description  Enlarge your Jira
+@author       mdourmouch
+@license      GPLv3
+==/UserStyle== */
+
 @-moz-document url-prefix("https://app.tempo.io/io/web/tempo-app/") {
     .feCNAl {
         width: 1000px;
     }
+
 
     .sc-gizGLm.iycbgu {
         width: 1000px;
@@ -22,5 +32,17 @@
 
     .UVxoo {
         width: 100%;
+    }
+    
+    .aeXfE {
+        width: 1000px
+    }
+    
+    .jQTMQJ {
+        width: 900px
+    }
+    
+    .izexVt {
+        width: 100%
     }
 }
