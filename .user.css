@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name         Enlarge your Jira
-@version      1.0.1
+@version      1.0.2
 @namespace    userstyles.world/user/mdourmouch
 @description  Enlarge your Jira
 @author       mdourmouch
@@ -8,32 +8,27 @@
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://app.tempo.io/io/web/tempo-app/") {
-    .feCNAl {
-        width: 1000px;
+    .czPFVt {
+        width: 80vw;
     }
 
-
-    .sc-gizGLm.iycbgu {
-        width: 1000px;
+    .sc-KXvuv.kKdOfD {
+        width: 80vw;
     }
 
-    .dCjRdB {
-        width: 800px;
+    .sc-cWiZSr.hqjBre {
+        width: 80vw;
     }
 
-    .UVxoo {
-        width: 100%;
+    .sc-hgiRw.eVJiOC {
+        width: 80vw;
+    }
+
+    .sc-Dmqmp.gNujJA.sc-bFAvez.eDINfz {
+        width: 80vw;
     }
     
-    .aeXfE {
-        width: 1000px
-    }
-    
-    .jQTMQJ {
-        width: 900px
-    }
-    
-    .izexVt {
-        width: 100%
+    .sc-kdHeGy.bvsFsC {
+        width: 80vw;
     }
 }
